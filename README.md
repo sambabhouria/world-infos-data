@@ -5,6 +5,9 @@
 ## Screen shot
 
 ![Formulario mult etapas](/src/images/1.png)
+![Formulario mult etapas](/src/images/2.png)
+![Formulario mult etapas](/src/images/3.png)
+![Formulario mult etapas](/src/images/4.png)
 
 
 
