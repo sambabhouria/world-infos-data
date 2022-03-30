@@ -44,7 +44,7 @@ $ npm run test
 
 👤 **DIALLO MAMADU SAMBA**
 
-- GitHub: [@Bondok6](https://github.com/sambabhouria)
+- GitHub: [@sambabhouria](https://github.com/sambabhouria)
 
 ## 🤝 Contributing
 
